@@ -28,3 +28,8 @@ This is **Task 04** of my Web Development Internship at **Prodigy Infotech**.
 ## 📸 Live Preview
 
 👉 [GitHub Pages Live Demo](https://SavejAkhtar.github.io/PRODIGY_WD_04)
+
+## 🔗 Connect with Me
+
+- GitHub: https://github.com/SavejAkhtar
+- LinkedIn: www.linkedin.com/in/savej-akhtar-profile
